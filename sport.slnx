@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sport/sport.vcxproj" Id="82a55455-c1a3-43c5-aabb-27031b961662" />
+</Solution>
